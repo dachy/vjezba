@@ -1,5 +1,5 @@
 ### palacinke
 
-*jaja
-*mlijeko
-*svasta jos
+* jaja
+* mlijeko
+* svasta jos
